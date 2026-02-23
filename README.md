@@ -12,7 +12,7 @@
 
 ### 👑 Rifat Ashhab Bin Sharif [Student ID:0390542] - Group Leader / Scrum Master
 
-### 📊 [Name 2] [Student ID] - Business Analyst
+### 📊 Ridwan Bin Noor [Student ID: 0390799] - Business Analyst
 
 ### 🎨 [Name 3] [Student ID] - UI/UX Designer
 
