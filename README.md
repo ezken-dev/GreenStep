@@ -10,7 +10,7 @@
 
 # 👥 Team Members
 
-### 👑 [Your Name] [Student ID] - Group Leader / Scrum Master
+### 👑 Rifat Ashhab Bin Sharif [Student ID:0390542] - Group Leader / Scrum Master
 
 ### 📊 [Name 2] [Student ID] - Business Analyst
 
