@@ -10,13 +10,14 @@
 
 # 👥 Team Members
 
-### 👑 Rifat Ashhab Bin Sharif [Student ID:0390542] - Group Leader / Scrum Master
+### 👑 Rifat Ashhab Bin Sharif [Student ID: 0390542] - Group Leader / Scrum Master
 
 ### 📊 Ridwan Bin Noor [Student ID: 0390799] - Business Analyst
 
 ### 🎨 [Name 3] [Student ID] - UI/UX Designer
 
-### 💻 [Name 4] [Student ID] - Prototyper / Developer
+### 💻 Nasim Chowdhury Hasan Mohammad Aftab [Student ID: 0146247361
+], Ridwan Bin Noor [Student ID: 0390799], Rifat Ashhab Bin Sharif [Student ID: 0390542]   - Prototyper / Developer
 
 ### 🛠️ [Name 5] [Student ID] - QA & Repository Manager
 
