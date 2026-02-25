@@ -14,11 +14,11 @@
 
 ### 📊 Ridwan Bin Noor [Student ID: 0390799] - Business Analyst
 
-### 🎨 [Name 3] [Student ID] - UI/UX Designer
+### 🎨 Fatin Sharar [Student ID: 0390774] - UI/UX Designer
 
 ### 💻 Nasim Chowdhury Hasan Mohammad Aftab [Student ID: 0146247361], Ridwan Bin Noor [Student ID: 0390799], Rifat Ashhab Bin Sharif [Student ID: 0390542]   - Prototyper / Developer
 
-### 🛠️ [Name 5] [Student ID] - QA & Repository Manager
+### 🛠️ Abdulah Ahnaf Zim [Student ID: 0390367] - QA & Repository Manager
 
 # 📖 Project Description
 
